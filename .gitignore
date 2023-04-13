@@ -1,0 +1,9 @@
+/venv/
+/server/migrations/
+/server/.env
+/server/alembic.ini
+/server/src/words/__pycache__/
+/server/src/dictionaries/__pycache__/
+/server/src/auth/__pycache__/
+/server/src/__pycache__/
+/server/__pycache__/
